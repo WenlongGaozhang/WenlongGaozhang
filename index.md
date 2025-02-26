@@ -8,6 +8,7 @@ I am a postdoctoral researcher at UCL, focusing on **robotics, probabilistic inf
 
 ## 🔬 Research Interests
 - **Bayesian methods** for decision making
+- <img src="assets/images/1.png" alt="My Research" width="600">
 - **Gaussian Process-based path planning** for confined marine environments
 - **Bio-inspired robotics** for healthcare and industry applications
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to Wenlong Goazhang's Homepage 🎓
+# Dr. Wenlong Goazhang
 
 I am a postdoctoral researcher at UCL, focusing on **robotics, probabilistic inference, and autonomous exploration**. 
 

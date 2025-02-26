@@ -5,10 +5,12 @@ layout: default
 # Dr. Wenlong Goazhang  
 **UCL Robotics, Department of Mechanical Engineering**
 
+---
 <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="assets/images/ID Photo_Gaozhang Wenlong400600.jpg" alt="Dr. Wenlong Goazhang" width="200">
     <p>Dr. Wenlong Goazhang is a postdoctoral researcher...</p>
 </div>
+---
 
 ## 🎓 Education
 ![My Research](assets/images/Research-Summary-Wenlong.png)

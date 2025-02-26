@@ -5,7 +5,8 @@ layout: default
 # Dr. Wenlong Goazhang
 
 **UCL Robotics, Department of Mechanical Engineering**
-- <img src="assets/images/1.png" alt="My Research" width="600">
+---
+<img src="assets/images/Education.png" alt="My Research" width="1400">
 ## 🔬 Research Interests
 - **Bayesian methods** for decision making
 - <img src="assets/images/1.png" alt="My Research" width="600">

@@ -4,8 +4,8 @@ layout: default
 
 # Dr. Wenlong Goazhang
 
-I am a postdoctoral researcher at UCL, focusing on **robotics, probabilistic inference, and autonomous exploration**. 
-
+**UCL Robotics, Department of Mechanical Engineering**
+- <img src="assets/images/1.png" alt="My Research" width="600">
 ## 🔬 Research Interests
 - **Bayesian methods** for decision making
 - <img src="assets/images/1.png" alt="My Research" width="600">

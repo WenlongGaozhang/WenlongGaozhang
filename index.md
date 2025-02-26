@@ -6,6 +6,8 @@ layout: default
 
 **UCL Robotics, Department of Mechanical Engineering**
 
+---
+
 <div class="img-text-container">
     <img src="assets/images/ID Photo_Gaozhang Wenlong400600.jpg" alt="Dr. Wenlong Goazhang" width="200">
     <div>
@@ -13,6 +15,7 @@ layout: default
     </div>
 </div>
 
+---
 
 ## 🎓 Education
 <img src="assets/images/Research-Summary-Wenlong.png" alt="My Research" width="600">

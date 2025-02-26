@@ -6,7 +6,9 @@ layout: default
 
 **UCL Robotics, Department of Mechanical Engineering**
 ---
-<img src="assets/images/Education.png" alt="My Research" width="1400">
+## 🎓 Education
+<img src="assets/images/Research-Summary-Wenlong.png" alt="My Research" width="2000">
+
 ## 🔬 Research Interests
 - **Bayesian methods** for decision making
 - <img src="assets/images/1.png" alt="My Research" width="600">

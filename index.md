@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Dr. Wenlong Goazhang  
+<!--# Dr. Wenlong Goazhang-->
 **UCL Robotics, Department of Mechanical Engineering**
 
 ---
 <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="assets/images/ID Photo_Gaozhang Wenlong400600.jpg" alt="Dr. Wenlong Goazhang" width="200">
-    <p>Dr. Wenlong Goazhang is a postdoctoral researcher...</p>
+    <p>I'm now a postdoctoral researcher in robotics, especially focusing on the research of soft robotics, bio-inspired robotics and soft sensing. My research topics include </p>
 </div>
 ---
 

@@ -16,8 +16,7 @@ I am a postdoctoral researcher at UCL, focusing on **robotics, probabilistic inf
 2. **Goazhang, W.**, et al. "Bayesian Inference for Marine Exploration." *ICRA 2023*. [(DOI)](https://example.com)
 
 ## 📬 Contact
-📧 Email: wenlong.goazhang@ucl.ac.uk  
-🔗 [Google Scholar](https://scholar.google.com) | [GitHub](https://github.com/wenlonggoazhang) | [Twitter](https://twitter.com)
-
+📧 Email: wenlong.goazhang.20@ucl.ac.uk  
+🔗 [Google Scholar](https://scholar.google.ca/citations?user=vhKVcqsAAAAJ&hl=en)
 ---
 ⭐ This website is powered by [GitHub Pages](https://pages.github.com/) and the Cayman Jekyll theme.

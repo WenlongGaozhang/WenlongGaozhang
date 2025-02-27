@@ -22,10 +22,12 @@ layout: default
     </p>
 </div>
 
----
 
 <!-- 解决问题的关键：清除浮动 -->
 <div style="clear: both;"></div>
+
+---
+
 
 ## 🎓 Education
 ![My Education](assets/images/Research-Summary-Wenlong.png)

@@ -9,7 +9,7 @@ layout: default
 <div style="max-width: 1000px; line-height: 1.5; text-align: justify;">
     <img src="assets/images/ID Photo_Gaozhang Wenlong400600.jpg" 
          alt="Dr. Wenlong Goazhang" 
-         width="200" 
+         width="150" 
          style="float: left; margin: 5px 15px 5px 0; shape-outside: margin-box;">
     <p>
         I am a postdoctoral researcher specializing in robotics, with a particular focus on 

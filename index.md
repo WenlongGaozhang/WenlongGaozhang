@@ -16,10 +16,7 @@ layout: default
         <strong>soft robotics</strong>, <strong>bio-inspired robotics</strong>, and <strong>soft sensing and haptic feedback</strong>. 
         My research explores <strong>hybrid variable stiffness co-bot systems</strong>, 
         <strong>fully soft continuum robots</strong>, <strong>soft tactile sensors</strong>, and  <strong>soft haptic feedback system</strong>,
-        aiming to enhance adaptability, functionality, and interaction in robotic systems.
-     </p>
-     <p style="text-indent: 2em;">
-        I am particularly interested in expanding the application boundaries of soft robotics into 
+        aiming to enhance adaptability, functionality, and interaction in robotic systems. I am particularly interested in expanding the application boundaries of soft robotics into 
         <strong>healthcare</strong>, <strong>industry</strong>, <strong>domestic assistance</strong>, and <strong>underwater exploration</strong>.
     </p>
 </div>
@@ -78,7 +75,7 @@ layout: default
 
 ---
 
-<img src="assets/images/1726126886169.jpg" alt="My Education" width="800" height="auto">
+<img src="assets/images/1726126886169.jpg" alt="My Education" width="1000" height="auto">
 
 ---
 

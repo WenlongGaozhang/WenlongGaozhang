@@ -11,12 +11,14 @@ layout: default
          alt="Dr. Wenlong Goazhang" 
          width="150" 
          style="float: left; margin: 5px 15px 5px 0; shape-outside: margin-box;">
-    <p>
+     <p style="text-indent: 2em;">
         I am a postdoctoral researcher specializing in robotics, with a particular focus on 
         <strong>soft robotics</strong>, <strong>bio-inspired robotics</strong>, and <strong>soft sensing</strong>. 
         My research explores <strong>hybrid variable stiffness co-bot systems</strong>, 
         <strong>fully soft continuum robots</strong>, and <strong>soft tactile sensors</strong>, 
-        aiming to enhance adaptability, functionality, and interaction in robotic systems. 
+        aiming to enhance adaptability, functionality, and interaction in robotic systems.
+     </p>
+     <p style="text-indent: 2em;">
         I am particularly interested in expanding the application boundaries of soft robotics into 
         healthcare, industry, domestic assistance, and underwater exploration.
     </p>

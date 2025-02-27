@@ -20,7 +20,7 @@ layout: default
      </p>
      <p style="text-indent: 2em;">
         I am particularly interested in expanding the application boundaries of soft robotics into 
-        healthcare, industry, domestic assistance, and underwater exploration.
+        <strong>healthcare</strong>, <strong>industry</strong>, <strong>domestic assistance</strong>, and <strong>underwater exploration</strong>.
     </p>
 </div>
 

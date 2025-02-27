@@ -31,15 +31,11 @@ layout: default
 
 ## 🎓 Education
 ![My Education](assets/images/Research-Summary-Wenlong.png)
----
-
-## 🎓 Education
-![My Education](assets/images/Research-Summary-Wenlong.png)
 
 ## 🔬 Research Interests
-- **hybrid variable stiffness co-bot system** for decision making  
-- **Gaussian Process-based path planning** for confined marine environments  
-- **Bio-inspired robotics** for healthcare and industry applications  
+- **Hybrid Variable Stiffness Co-bot System**
+- **Soft Continuum Robots**
+- **Soft Tactile Sensors**
 
 ## 📄 Publications
 1. **Goazhang, W.**, et al. "Bio-Inspired Musculoskeletal Hybrid Robot with Model-Based Control." *Journal of Robotics Research*, 2024. [(PDF)](https://example.com)  

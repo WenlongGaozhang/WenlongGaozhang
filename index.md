@@ -34,6 +34,18 @@ layout: default
 
 ## 🔬 Research Interests
 - **Hybrid Variable Stiffness Co-bot System**
+
+---
+
+<div style="max-width: 1000px; line-height: 1.5; text-align: justify;">
+    <video width="100%" controls>
+        <source src="assets/videos/1709911266389.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
+---
+
 - **Soft Continuum Robots**
 - **Soft Tactile Sensors**
 

@@ -32,7 +32,7 @@ layout: default
 
 
 ## 🎓 Education
-![My Education](assets/images/Research-Summary-Wenlong.png)
+<img src="assets/images/Research-Summary-Wenlong.png" alt="My Education" width="700" height="auto">
 
 ## 🔬 Research Interests
 - **Hybrid Variable Stiffness Co-bot System**

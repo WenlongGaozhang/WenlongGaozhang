@@ -46,12 +46,48 @@ layout: default
 
 ---
 
-- **Soft Continuum Robots**
-- **Soft Tactile Sensors**
+- **Soft Continuum Robots**, Co-project with Dr. Jialei Shi. 🔗 [Google Scholar](https://scholar.google.com/citations?user=6wK9sHEAAAAJ&hl=zh-CN)  
+
+---
+
+<div style="max-width: 1000px; line-height: 1.5; text-align: justify;">
+    <video width="100%" controls>
+        <source src="assets/videos/1709045804558.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
+---
+
+- **Soft Tactile Sensors**, Co-project with Dr. Yue Li. 🔗 [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=H63EvncAAAAJ)
+
+---
+
+<div style="max-width: 1000px; line-height: 1.5; text-align: justify;">
+    <video width="100%" controls>
+        <source src="assets/videos/1709045804558.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
+---
 
 ## 📄 Publications
-1. **Goazhang, W.**, et al. "Bio-Inspired Musculoskeletal Hybrid Robot with Model-Based Control." *Journal of Robotics Research*, 2024. [(PDF)](https://example.com)  
-2. **Goazhang, W.**, et al. "Bayesian Inference for Marine Exploration." *ICRA 2023*. [(DOI)](https://example.com)  
+1. **W Gaozhang**, Y Li, J Shi, Y Wang, A Stilli, H Wurdemann. ''A novel stiffness-controllable joint using antagonistic actuation principles'', _Mechanism and Machine Theory_, 196, 105614.
+
+3. **W Gaozhang**, J Shi, Y Li, A Stilli, H Wurdemann. ''Characterisation of Antagonistically Actuated, Stiffness-Controllable Joint-Link Units for Cobots'', _2023 IEEE International Conference on Robotics and Automation (ICRA)_, 655-661.
+
+4. J Shi, **W Gaozhang**, HA Wurdemann. ''Design and characterisation of cross-sectional geometries for soft robotic manipulators with fibre-reinforced chambers'', _2022 IEEE 5th International Conference on Soft Robotics (RoboSoft)_, 125-131.
+
+6. J Shi, **W Gaozhang**, H Jin, G Shi, HA Wurdemann. ''Characterisation and control platform for pneumatically driven soft robots: Design and applications'', _2023 IEEE International Conference on Soft Robotics (RoboSoft)_, 1-8.
+
+7. Y Li, **W Gaozhang**, J Hu, D Cao, P Dasgupta, H Liu. ''Optical-waveguide based 3-axial tactile sensor for minimally invasive surgical instruments'', _IEEE Robotics and Automation Letters_, 9 (2), 1604-1611.
+
+8. D Zhang, **W Gaozhang**, Q Zhang. ''Alternative flexible correction forming of a blade: multipoint correction with surface measurement and deformation simulation'', _Advances in Manufacturing_, 11 (4), 587-600.
+
+
+
+
 
 ## 📬 Contact
 📧 Email: wenlong.gaozhang.20@ucl.ac.uk  

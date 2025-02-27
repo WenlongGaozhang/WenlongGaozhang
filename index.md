@@ -13,9 +13,9 @@ layout: default
          style="float: left; margin: 5px 15px 5px 0; shape-outside: margin-box;">
      <p style="text-indent: 2em;">
         I am a postdoctoral researcher specializing in robotics, with a particular focus on 
-        <strong>soft robotics</strong>, <strong>bio-inspired robotics</strong>, and <strong>soft sensing</strong>. 
+        <strong>soft robotics</strong>, <strong>bio-inspired robotics</strong>, and <strong>soft sensing and haptic feedback</strong>. 
         My research explores <strong>hybrid variable stiffness co-bot systems</strong>, 
-        <strong>fully soft continuum robots</strong>, and <strong>soft tactile sensors</strong>, 
+        <strong>fully soft continuum robots</strong>, <strong>soft tactile sensors</strong>, and  <strong>soft haptic feedback system</strong>,
         aiming to enhance adaptability, functionality, and interaction in robotic systems.
      </p>
      <p style="text-indent: 2em;">
@@ -78,7 +78,7 @@ layout: default
 
 ---
 
-<img src="assets/images/Research-Summary-Wenlong.png" alt="My Education" width="650" height="auto">
+<img src="assets/images/1726126886169.jpg" alt="My Education" width="800" height="auto">
 
 ---
 

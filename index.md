@@ -6,8 +6,11 @@ layout: default
 **UCL Robotics, Department of Mechanical Engineering**
 
 ---
-<div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="assets/images/ID Photo_Gaozhang Wenlong400600.jpg" alt="Dr. Wenlong Goazhang" width="200">
+<div style="overflow: hidden;">
+    <img src="assets/images/ID Photo_Gaozhang Wenlong400600.jpg" 
+         alt="Dr. Wenlong Goazhang" 
+         width="200" 
+         style="float: left; margin-right: 15px;">
     <p>
         I am a postdoctoral researcher specializing in robotics, with a particular focus on 
         <strong>soft robotics</strong>, <strong>bio-inspired robotics</strong>, and <strong>soft sensing</strong>. 
@@ -18,6 +21,7 @@ layout: default
         healthcare, industry, domestic assistance, and underwater exploration.
     </p>
 </div>
+
 ---
 
 ## 🎓 Education

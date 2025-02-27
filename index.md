@@ -86,9 +86,6 @@ layout: default
 8. D Zhang, **W Gaozhang**, Q Zhang. ''Alternative flexible correction forming of a blade: multipoint correction with surface measurement and deformation simulation'', _Advances in Manufacturing_, 11 (4), 587-600.
 
 
-
-
-
 ## 📬 Contact
 📧 Email: wenlong.gaozhang.20@ucl.ac.uk  
 🔗 [Google Scholar](https://scholar.google.ca/citations?user=vhKVcqsAAAAJ&hl=en)  

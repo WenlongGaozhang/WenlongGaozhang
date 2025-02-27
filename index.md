@@ -32,7 +32,7 @@ layout: default
 
 
 ## 🎓 Education
-<img src="assets/images/Research-Summary-Wenlong.png" alt="My Education" width="700" height="auto">
+<img src="assets/images/Research-Summary-Wenlong.png" alt="My Education" width="650" height="auto">
 
 ## 🔬 Research Interests
 - **Hybrid Variable Stiffness Co-bot System**
@@ -67,7 +67,7 @@ layout: default
 
 <div style="max-width: 1000px; line-height: 1.5; text-align: justify;">
     <video width="100%" controls>
-        <source src="assets/videos/1709045804558.mp4" type="video/mp4">
+        <source src="assets/videos/Demo Video.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>

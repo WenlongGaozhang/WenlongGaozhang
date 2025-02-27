@@ -90,4 +90,4 @@ layout: default
 
 ## 📬 Contact
 📧 Email: wenlong.gaozhang.20@ucl.ac.uk  
-🔗 [Google Scholar](https://scholar.google.ca/citations?user=vhKVcqsAAAAJ&hl=en)  
+🔗 [Google Scholar](https://scholar.google.ca/citations?user=vhKVcqsAAAAJ&hl=en)  ‖ [LinkedIn](https://www.linkedin.com/in/wenlong-gaozhang-b16962226/?originalSubdomain=uk)

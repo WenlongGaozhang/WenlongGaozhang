@@ -35,7 +35,7 @@ layout: default
 <img src="assets/images/Research-Summary-Wenlong.png" alt="My Education" width="650" height="auto">
 
 ## 🔬 Research Interests
-- **Hybrid Variable Stiffness Co-bot System**
+- **Hybrid Variable Stiffness Co-bot System** --- Collaboration with Professor Helge Arne Wurdemann 🔗 [Personal Page](https://helge-wurdemann.com/)  
 
 ---
 
@@ -48,7 +48,7 @@ layout: default
 
 ---
 
-- **Soft Continuum Robots**, Co-project with Dr. Jialei Shi. 🔗 [Google Scholar](https://scholar.google.com/citations?user=6wK9sHEAAAAJ&hl=zh-CN)  
+- **Soft Continuum Robots** --- Co-project with Dr. Jialei Shi. 🔗 [Google Scholar](https://scholar.google.com/citations?user=6wK9sHEAAAAJ&hl=zh-CN)  
 
 ---
 
@@ -61,7 +61,7 @@ layout: default
 
 ---
 
-- **Soft Tactile Sensors**, Co-project with Dr. Yue Li. 🔗 [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=H63EvncAAAAJ)
+- **Soft Tactile Sensors** --- Co-project with Dr. Yue Li. 🔗 [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=H63EvncAAAAJ)
 
 ---
 
@@ -71,6 +71,14 @@ layout: default
         Your browser does not support the video tag.
     </video>
 </div>
+
+---
+
+- **Soft Haptic Feedback System** --- Project Research Assistant - Dr. Sara Adela Abad G. 🔗 [Google Scholar](https://scholar.google.co.uk/citations?user=dSk73UoAAAAJ&hl=en)
+
+---
+
+<img src="assets/images/Research-Summary-Wenlong.png" alt="My Education" width="650" height="auto">
 
 ---
 

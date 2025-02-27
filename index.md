@@ -8,7 +8,15 @@ layout: default
 ---
 <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="assets/images/ID Photo_Gaozhang Wenlong400600.jpg" alt="Dr. Wenlong Goazhang" width="200">
-    <p>I am a postdoctoral researcher specializing in robotics, with a particular focus on **soft robotics**, **bio-inspired robotics**, and **soft sensing**. My research explores **hybrid variable stiffness co-bot systems**, **fully soft continuum robots**, and **soft tactile sensors**, aiming to enhance adaptability, functionality, and interaction in robotic systems. I am particularly interested in expanding the application boundaries of soft robotics into healthcare, industry, domestic assistance, and underwater exploration.</p>
+    <p>
+        I am a postdoctoral researcher specializing in robotics, with a particular focus on 
+        <strong>soft robotics</strong>, <strong>bio-inspired robotics</strong>, and <strong>soft sensing</strong>. 
+        My research explores <strong>hybrid variable stiffness co-bot systems</strong>, 
+        <strong>fully soft continuum robots</strong>, and <strong>soft tactile sensors</strong>, 
+        aiming to enhance adaptability, functionality, and interaction in robotic systems. 
+        I am particularly interested in expanding the application boundaries of soft robotics into 
+        healthcare, industry, domestic assistance, and underwater exploration.
+    </p>
 </div>
 ---
 

@@ -52,7 +52,7 @@ layout: default
 
 <div style="max-width: 1000px; line-height: 1.5; text-align: justify;">
     <video width="100%" controls>
-        <source src="assets/videos/1709045804558.mp4" type="video/mp4">
+        <source src="assets/videos/2月27日(1).mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>

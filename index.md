@@ -6,10 +6,10 @@ layout: default
 **UCL Robotics, Department of Mechanical Engineering**
 
 ---
-<div style="max-width: 600px; line-height: 1.5; text-align: justify;">
+<div style="max-width: 1000px; line-height: 1.5; text-align: justify;">
     <img src="assets/images/ID Photo_Gaozhang Wenlong400600.jpg" 
          alt="Dr. Wenlong Goazhang" 
-         width="150" 
+         width="200" 
          style="float: left; margin: 5px 15px 5px 0; shape-outside: margin-box;">
     <p>
         I am a postdoctoral researcher specializing in robotics, with a particular focus on 
